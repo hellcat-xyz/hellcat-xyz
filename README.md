@@ -8,4 +8,3 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hellcat-xyz&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellcat-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="hellcat-xyz" /> </p>
-
