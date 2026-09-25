@@ -8,3 +8,18 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hellcat-xyz&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellcat-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="hellcat-xyz" /> </p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/hellcat-xyz/hellcat-xyz/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/hellcat-xyz/hellcat-xyz/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/hellcat-xyz/hellcat-xyz/output/github-snake.svg"
+  />
+</picture>
